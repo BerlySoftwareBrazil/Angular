@@ -2,7 +2,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { DataServices } from './servicos/dataServices';
 
 @NgModule({
   declarations: [
@@ -11,7 +10,7 @@ import { DataServices } from './servicos/dataServices';
   imports: [
     BrowserModule
   ],
-  providers: [DataServices],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
