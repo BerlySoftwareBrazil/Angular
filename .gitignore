@@ -20,3 +20,6 @@ Coorte.WebApi/obj/Debug/netcoreapp2.1/Coorte.WebApi.dll
 Coorte.WebApi/bin/Debug/netcoreapp2.1/Coorte.WebApi.runtimeconfig.dev.json
 Coorte.WebApi/bin/Debug/netcoreapp2.1/Coorte.WebApi.runtimeconfig.json
 Coorte.WebApi/bin/Debug/netcoreapp2.1/Coorte.WebApi.deps.json
+Coorte.WebApi/obj/Coorte.WebApi.csproj.nuget.cache
+Coorte.WebApi/obj/Coorte.WebApi.csproj.nuget.g.props
+Coorte.WebApi/obj/project.assets.json
